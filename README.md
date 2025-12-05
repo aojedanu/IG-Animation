@@ -66,6 +66,7 @@ El código asociado a updatePhysics() es el encargado de sincronizar la física 
 
 ## Video demostrativo 
 
+https://youtu.be/53Vte4vzrSM
 
 ## Enlace al código
 
